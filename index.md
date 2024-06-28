@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Henry Fasakin is a Software Engineer with a great eye for design(I mean I do a little product design too). I am a full-stack web developer with vast knowledge of many technologies.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I love building and shipping a lot of cool ideas I find amazing.
